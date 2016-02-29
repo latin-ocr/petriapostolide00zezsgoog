@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./petriapostolide00zezsgoog_0007.png"; bbox 0 0 3516 5360; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1 486 1729 1201">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1 486 1729 1232">
+     <span class='ocr_line' id='line_1_1' title="bbox 1 486 1529 812; baseline 0.038 -114"><span class='ocrx_word' id='word_1_1' title='bbox 1 689 2 698; x_wconf 14' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_2' title='bbox 513 486 759 726; x_wconf 79' lang='lat' dir='ltr'>PETRI</span> <span class='ocrx_word' id='word_1_3' title='bbox 794 573 1188 722; x_wconf 80' lang='lat' dir='ltr'><strong>APOSTOLI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1276 803 1277 812; x_wconf 7' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1358 577 1362 584; x_wconf 76' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1523 748 1529 756; x_wconf 79' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 154 909 1729 1201; baseline 0.013 -85.964"><span class='ocrx_word' id='word_1_7' title='bbox 154 949 269 1122; x_wconf 76' lang='lat' dir='ltr'>DE·</span> <span class='ocrx_word' id='word_1_8' title='bbox 291 946 601 1127; x_wconf 76' lang='lat' dir='ltr'><strong>CHRISTI</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 626 952 737 1126; x_wconf 74' lang='lat' dir='ltr'>AD</span> <span class='ocrx_word' id='word_1_10' title='bbox 761 948 1097 1126; x_wconf 69' lang='lat' dir='ltr'>INFEROS</span> <span class='ocrx_word' id='word_1_11' title='bbox 1125 945 1537 1201; x_wconf 71' lang='lat' dir='ltr'>DESCENSU</span> <span class='ocrx_word' id='word_1_12' title='bbox 1660 909 1729 1007; x_wconf 79' lang='lat'><strong>¹</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 648 1313 1044 1412">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 648 1313 1044 1412">
+     <span class='ocr_line' id='line_1_3' title="bbox 648 1313 1044 1412; baseline -0.003 -1"><span class='ocrx_word' id='word_1_13' title='bbox 648 1313 1044 1412; x_wconf 83' lang='lat' dir='ltr'>SENTENTIA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1762 5360">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1762 5360">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1762 5360; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1762 5360; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
